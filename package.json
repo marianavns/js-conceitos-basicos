@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-s2-conceitos-basicos",
+  "version": "1.0.0",
+  "description": "# Conceitos Básicos de Programação",
+  "main": "calculadora-de-media.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianavns/reprograma-s2-conceitos-basicos.git"
+  },
+  "author": "marianavns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianavns/reprograma-s2-conceitos-basicos/issues"
+  },
+  "homepage": "https://github.com/marianavns/reprograma-s2-conceitos-basicos#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "readline-sync": "^1.4.10"
+  }
+}
